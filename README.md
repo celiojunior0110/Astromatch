@@ -20,7 +20,7 @@ Funcionalidades extras como chat, cadastro de usuário ou cancelar match não fo
 ### Detalhes técnicos
 Optei por estruturar o projeto como se fosse algo escalável (o que não é o caso). É o que eu utilizaria hoje em um contexto real. De qualquer forma, venho testando e me adaptando conforme ganho experiência e aprendo novas ferramentas.
 
-![Estrutura de pastas](https://imgbox.com/Exau5DRA)
+![estrutura](https://user-images.githubusercontent.com/62436902/160221337-9f7fb98d-d83f-4378-a8a8-1c64b952fd62.png)
 
 Ainda sobre a organização do projeto, dividi os componentes entre contextos. Existem os reutilizáveis na pasta *components* na raiz do *src*. E tem a pasta *components* no contexto da *Home*, dentro da *pasta* pages. Assim acredito ser mais fácil o entendimento do código.
 
@@ -39,7 +39,7 @@ A aplicação pode ser utilizada em dispositivos móveis, ainda que eu não a co
 #### Deploy e Imagens
 [brawny-boundary.surge.sh](https://brawny-boundary.surge.sh/)
 
-![Home: Theme Dark](https://imgbox.com/U6JZt1kE)
-![Matches: Theme Dark](https://imgbox.com/3D3NjBl0)
-![Home: Theme Light](https://imgbox.com/EGKEr34d)
-![Matches: Theme Light](https://imgbox.com/E5pyzZao)
+![lightHome](https://user-images.githubusercontent.com/62436902/160221250-01c99782-5204-47c5-a119-a7fcd0120820.png)
+![lightList](https://user-images.githubusercontent.com/62436902/160221308-f73f2deb-f28e-4bcd-8486-d17727d1aca1.png)
+![homeDark](https://user-images.githubusercontent.com/62436902/160221306-995e1341-1451-4ae6-a51d-95fce4983a5d.png)
+![darkList](https://user-images.githubusercontent.com/62436902/160221304-ac05a74c-27c6-4c6c-bb76-fc1c663c557d.png)
